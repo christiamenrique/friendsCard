@@ -4,3 +4,7 @@ This app was build with :
 * create-react-app
 * json objects
 * class and functional components
+
+### NPM
+* npm install
+* npm start
