@@ -5,6 +5,11 @@ This app was build with :
 * json objects
 * class and functional components
 
+### Demo 
+
+* https://allmyfriends.netlify.com/
+
+
 ### NPM
 * npm install
 * npm start
